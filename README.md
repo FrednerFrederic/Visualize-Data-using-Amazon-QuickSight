@@ -5,14 +5,14 @@ In this project, you'll learn how to create visualizations from a large dataset 
 
 
 
-STEP #1: Download the Dataset
+    STEP #1: Download the Dataset
 
 *Navigate to 2-s3-quicksight to download the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
 Click on "raw" and Control+S to save both files onto your computer.
 
 
 
-STEP #2: Store the Dataset in Amazon S3
+    STEP #2: Store the Dataset in Amazon S3
 
 *Open the Amazon S3 console and click "Create Bucket."
 
@@ -24,7 +24,7 @@ STEP #2: Store the Dataset in Amazon S3
 
 
 
-STEP #3: Connect S3 Bucket with Amazon Quicksight
+    STEP #3: Connect S3 Bucket with Amazon Quicksight
 
 *Open the AWS management console and navigate to Amazon Quicksight.
 
@@ -38,7 +38,7 @@ STEP #3: Connect S3 Bucket with Amazon Quicksight
 
 
 
-STEP #4: Create Visualizations
+    STEP #4: Create Visualizations
 
 *Drag fields into the graph to create visualizations (e.g., Most popular brands).
 
